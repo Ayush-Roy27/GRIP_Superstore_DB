@@ -38,11 +38,11 @@ East and West profit are more than the average regional profit.
 
 Binders, Paper and Furnishings are the 3 best-selling sub-categories of products by quantity.
 
-**Insights:**
+**Recommendations:**
 
 Reduce discount rates.
 
-Increase the sales of products having profit margin.
+Increase the sales of products having high profit margin.
 
 
 
