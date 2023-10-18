@@ -5,13 +5,9 @@ Project Summary: Exploratory Data Analysis on a Superstore. As a business manage
 **Steps Folllowed:**
 
 Data Loading : Loaded .csv file to Excel and saved it as .xlsx file.
-
 Data Processing: Prepared the data for analysis by organizing the data and adding necessary columns.
-
 Data Analysis: Employed various analytical techniques to derive insights and draw meaningful conclusions.
-
 Data Visualization: Presented the findings in a visually appealing manner through texts, table and graphs.
-
 Reports: Compiled a comprehensive dashboard to summarize the analysis and its outcomes.
 
 **Questions:**
