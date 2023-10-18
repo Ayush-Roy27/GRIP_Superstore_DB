@@ -46,19 +46,3 @@ Increase the sales of products having profit margin.
 
 
 
-
-
-
-
-
-
-
-
-
-
-Insights:
-
-Reduce disocunt rates.
-Increase the sales of products that have high profit margin.
-
-
